@@ -26,5 +26,3 @@ Once running, open your browser and navigate to:
 - **Interactive Swagger Docs**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 - **ReDoc Docs**: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
 =======
-# FastAPI_Handwritten
->>>>>>> 9cbd438e27615710906cb407c6caa2fb6aaab783
